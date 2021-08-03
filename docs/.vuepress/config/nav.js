@@ -37,6 +37,14 @@ module.exports = [
             text: 'JS设计模式总结笔记',
             link: '/pages/4643cd/',
           },
+          {
+            text: '经典面试题',
+            link: '/pages/7d67e2/',
+          },
+          {
+            text: '知识点总结',
+            link: '/pages/7a69e8/',
+          }
         ],
       },
     ],

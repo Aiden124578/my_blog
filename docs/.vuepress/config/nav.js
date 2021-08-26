@@ -44,7 +44,11 @@ module.exports = [
           {
             text: '知识点总结',
             link: '/pages/7a69e8/',
-          }
+          },
+          {
+            text: '算法',
+            link: '/pages/007bf9/',
+          },
         ],
       },
     ],

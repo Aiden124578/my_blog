@@ -6,7 +6,7 @@ const htmlModules = require('./htmlModules.js');
 module.exports = {
   nav,
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-  logo: '/img/AD-logo.png', // 导航栏logo
+  logo: 'https://cdn.jsdelivr.net/gh/Aiden124578/my_blog@1.8.3/docs/.vuepress/public/img/AD-logo.png', // 导航栏logo
   // repo: 'xugaoyi/vuepress-theme-vdoing', // 导航栏右侧生成Github链接
   repo: 'https://github.com/Aiden124578/my_blog/', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
@@ -53,7 +53,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
+    avatar: 'https://pic.imgdb.cn/item/612859a444eaada739759616.jpg',
     name: 'Aiden Wu',
     slogan: '前端界的小学生',
   },

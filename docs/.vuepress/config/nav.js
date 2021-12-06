@@ -50,6 +50,10 @@ module.exports = [
             text: '《Echarts》笔记',
             link: '/pages/echarts/',
           },
+          {
+            text: '《微前端》笔记',
+            link: '/pages/92a49d/',
+          },
         ],
       },
     ],
@@ -68,12 +72,14 @@ module.exports = [
     items: [
       { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
       { text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/' },
-      { text: 'Nodejs', link: '/pages/117708e0af7f0bd9/' },
+      { text: 'Nodejs', link: '/pages//pages/nodejs/' },
       { text: '博客搭建', link: '/pages/41f87d890d0a02af/' },
       { text: '搜索引擎', link: '/note/seo/baidu/' },
-      // { text: 'LeetCode算法', link: '/pages/7d6e5b/' },
+      { text: 'ES系列', link: '/pages/2588a7/' },
       { text: '经典面试题', link: '/pages/7d67e2/' },
       { text: '知识点总结', link: '/pages/7a69e8/' },
+      { text: 'uni-app', link: '/pages/uni-app/' },
+      { text: '算法', link: '/pages/leetcode/' },
     ],
   },
   {

@@ -54,6 +54,10 @@ module.exports = [
             text: '《微前端》笔记',
             link: '/pages/92a49d/',
           },
+          {
+            text: '《H5》笔记',
+            link: '/pages/e1dcd1/',
+          },
         ],
       },
     ],

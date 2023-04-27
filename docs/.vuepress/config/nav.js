@@ -84,6 +84,7 @@ module.exports = [
       { text: '知识点总结', link: '/pages/7a69e8/' },
       { text: 'uni-app', link: '/pages/uni-app/' },
       { text: '算法', link: '/pages/leetcode/' },
+      { text: 'Vue3实战', link: '/pages/f4c038/' },
     ],
   },
   {

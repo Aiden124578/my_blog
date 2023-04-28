@@ -16,46 +16,46 @@ module.exports = [
       {
         text: '学习笔记',
         items: [
-          { text: '《JavaScript教程》笔记', link: '/note/javascript/' },
-          { text: '《JavaScript高级程序设计》笔记', link: '/note/js/' },
-          { text: '《ES6 教程》笔记', link: '/note/es6/' },
-          { text: '《Vue》笔记', link: '/note/vue/' },
-          { text: '《Vue3.0》笔记', link: '/pages/690271/' },
-          { text: '《React》笔记', link: '/note/react/' },
+          { text: 'JavaScript教程', link: '/note/javascript/' },
+          { text: 'JavaScript高级程序设计', link: '/note/js/' },
+          { text: 'ES6 教程', link: '/note/es6/' },
+          { text: 'Vue', link: '/note/vue/' },
+          { text: 'Vue3.0', link: '/pages/690271/' },
+          { text: 'React', link: '/note/react/' },
           {
-            text: '《TypeScript 从零实现 axios》',
+            text: 'TypeScript 从零实现 axios',
             link: '/note/typescript-axios/',
           },
           {
-            text: '《Git》学习笔记',
+            text: 'Git',
             link: '/note/git/',
           },
           {
-            text: '《TypeScript》笔记',
+            text: 'TypeScript',
             link: '/pages/51afd6/',
           },
           {
-            text: '《JS设计模式总结》笔记',
+            text: 'JS设计模式总结',
             link: '/pages/4643cd/',
           },
           {
-            text: '《小程序》笔记',
+            text: '小程序',
             link: '/note/wx-miniprogram/',
           },
           {
-            text: '《小程序云开发》笔记',
+            text: '小程序云开发',
             link: '/pages/f342ec/',
           },
           {
-            text: '《Echarts》笔记',
+            text: 'Echarts',
             link: '/pages/echarts/',
           },
           {
-            text: '《微前端》笔记',
+            text: '微前端',
             link: '/pages/92a49d/',
           },
           {
-            text: '《H5》笔记',
+            text: 'H5',
             link: '/pages/e1dcd1/',
           },
         ],
